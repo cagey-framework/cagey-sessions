@@ -1,0 +1,38 @@
+{
+  "name": "cagey-sessions",
+  "version": "0.0.1",
+  "description": "User sessions for the Cagey game framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "precommit": "npm test",
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cagey-framework/cagey-sessions.git"
+  },
+  "keywords": [
+    "game",
+    "framework",
+    "sessions"
+  ],
+  "files": [
+    "lib",
+    "LICENSE"
+  ],
+  "author": "Ron Korving <rkorving@wizcorp.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cagey-framework/cagey-sessions/issues"
+  },
+  "homepage": "https://github.com/cagey-framework/cagey-sessions#readme",
+  "dependencies": {
+    "deep-copy": "^1.4.0",
+    "eventemitter2": "^5.0.0",
+    "parse-duration": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "husky": "^0.14.3"
+  }
+}
