@@ -1,6 +1,6 @@
 {
   "name": "cagey-sessions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "User sessions for the Cagey game framework",
   "main": "lib/index.js",
   "scripts": {
