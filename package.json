@@ -28,7 +28,7 @@
   "homepage": "https://github.com/cagey-framework/cagey-sessions#readme",
   "dependencies": {
     "deep-copy": "1.4.2",
-    "eventemitter2": "5.0.1",
+    "eventemitter2": "6.4.2",
     "parse-duration": "0.1.1"
   },
   "devDependencies": {
